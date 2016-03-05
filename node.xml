@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This is a comment -->
+<Items>
+<Stations>
+
+<!-- These are Canada Line stations -->
+<station name="Vancouver City Centre" line1="Canada" zone="1" long="-123.11832" lat="49.28241" info="Within walking distance of Robson Square, the Vancouver Art gallery, the Provincial Court of BC, the Orpheum Theatre, and other attractions." />
+<station name="Yaletown-Roundhouse" line1="Canada" zone="1" long="-123.12210" lat="49.27445" info="Serves the growing residential areas of Yaletown." />
+<station name="Olympic Village" line1="Canada" zone="1" long="-123.11549" lat="49.26659" info="Within walking distance of False Creek Ferries and Aquabus Ferry with access to Granville Island." />
+<station name="Broadway-City Hall" line1="Canada" zone="1" long="-123.11476" lat="49.26272" info="Within walking distance of Vancouver City Hall, City Square Mall, and Vancouver General Hospital." />
+<station name="King Edward" line1="Canada" zone="1" long="-123.11523" lat="49.24919" info="Within walking disance of Queen Elizabeth park, retail areas of Cambie st, and residential districts"/>
+<station name="Oakridge-41st Avenue" line1="Canada" zone="1" long="-123.11608" lat="49.23365" info="Within walking distance of Oakridge Centre and Queen Elizabeth Park." />
+<station name="Langara-49th Avenue" line1="Canada" zone="1" long="-123.11633" lat="49.22600" info="Within walking distance of Langara College and the South Slope YMCA." />
+<station name="Marine Drive" line1="Canada" zone="1" long="-123.11696" lat="49.20981" info="Serves the residential districts of Marpole and Vancouver South Slope." />
+<station name="Bridgeport" line1="Canada" zone="2" long="-123.12581" lat="49.19582" info="Within walking distance as the River Rock Casino" />
+<station name="Templeton" line1="Canada" zone="2" long="-123.14903" lat="49.19598" info="Within walking distance of McDonald Beach Regional Parks and the Vancouver Airport's south terminal" />
+<station name="Sea Island Centre" line1="Canada" zone="2" long="-123.15898" lat="49.19308" info="Serves the airline related industries around the airport."/>
+<station name="YVR Airport" line1="Canada" zone="2" long="-123.17963" lat="49.19404" info="Serves both the domestic and international terminals of the Vancouver Airport."/>
+<station name="Aberdeen" line1="Canada" zone="2" long="-123.13645" lat="49.18421" info="Within walking distance of Richmond's Golden Village and many asian themed shopping centres." />
+<station name="Lansdowne" line1="Canada" zone="2" long="-123.13661" lat="49.17452" info="Serves the Lansdowne Centre and Kwantlen University." />
+<station name="Richmond-Brighouse" line1="Canada" zone="2" long="-123.13638" lat="49.16756" info="Within walking distance of Richmond Centre shopping mall, Richmond City Hall, and other commercial buildings." />
+
+<!-- these are Millenium line and expo line -->
+<station name="Waterfront" line1="Millenium" line2="Expo" line3="Canada" zone="1" long="-123.11176" lat="49.28538" info="Within walking distance of historic Gastown, Canada Place terminal, and downtown campuses for SFU and BCIT." />
+<station name="Burrard" line1="Millenium" line2="Expo" zone="1" long="-123.11939" lat="49.28559" info="Within walking distance of Coal harbour, it serves the Vancouver financial districts." />
+<station name="Granville" line1="Millenium" line2="Expo" zone="1" long="-123.11603" lat="49.28324" info="Within walking distance of the Granville Entertainment District with busy nightlife as well as many shopping complexes." />
+<station name="Stadium-Chinatown" line1="Millenium" line2="Expo" zone="1" long="-123.11009" lat="49.27964" info="Within walking distance of BC Place Stadium as well as Vancouver's Chinatown area." />
+<station name="Main Street-Science World" line1="Millenium" line2="Expo" zone="1" long="-123.10015" lat="49.27320" info="Within walking distance of the Science World science museum." />
+<station name="Commercial-Broadway" line1="Millenium" line2="Expo" zone="1" long="-123.06923" lat="49.26226" info="One of the only two stations in the world where the same line runs through it twice, this station serves Vancouver's Little Italy area." />
+<station name="Nanaimo" line1="Millenium" line2="Expo" zone="1" long="-123.05638" lat="49.24843" info="This is the farthest west station that the Expo Line follows the old BC Electric Railway line." />
+<station name="29th Avenue" line1="Millenium" line2="Expo" zone="1" long="-123.04663" lat="49.24438" info="Serves the Renfrew Heights community of Vancouver." />
+<station name="Joyce-Collinwood" line1="Millenium" line2="Expo" zone="1" long="-123.03177" lat="49.23850" info="Serves the Collingwood Village residential area." />
+<station name="Patterson" line1="Millenium" line2="Expo" zone="2" long="-123.01268" lat="49.22971" info="Within walking distance of Burnaby's Central Park." />
+<station name="Metrotown" line1="Millenium" line2="Expo" zone="2" long="-123.00338" lat="49.22570" info="Has an overhead walkway to Metropolis at Metrotown shopping centre, as well as Bonsor Community Centre." />
+<station name="Royal Oak" line1="Millenium" line2="Expo" zone="2" long="-122.98847" lat="49.22001" info="Serves the residential areas around Royal Oak." />
+<station name="Edmonds" line1="Millenium" line2="Expo" zone="2" long="-122.95916" lat="49.21191" info="Serves the High Rises and residential areas near Edmonds Street." />
+<station name="22nd Street" line1="Millenium" line2="Expo" zone="2" long="-122.94894" lat="49.20002" info="Serves the low density residential areas of 22nd St." />
+<station name="New Westminister" line1="Millenium" line2="Expo" zone="2" long="-122.91263" lat="49.20146" info="Within walking distance of Douglas College, New Westminister Quary, and shopping centres." />
+<station name="Columbia" line1="Millenium" line2="Expo" zone="2" long="-122.90619" lat="49.20486" info="Serves New Westminiter's downtown, is a transfer point between the Expo and Millenium lines." />
+
+<!-- Millenium line -->
+<station name="Sapperton" line1="Millenium" zone="2" long="-122.88931" lat="49.22462" info="Within walking distance of the Royal Columbian Hospital."/>
+<station name="Braid" line1="Millenium" zone="2" long="-122.88272" lat="49.23324" info="This station is just south of the Trans Canada Highway." />
+<station name="Lougheed Town Centre" line1="Millenium" zone="2" long="-122.89695" lat="49.24848" info="Within walking distance of Lougheed Town Centre shopping centre."/>
+<station name="Production Way-University" line1="Millenium" zone="2" long="-122.91822" lat="49.25336" info="Serves as a hub for SFU university students." />
+<station name="Lake City Way" line1="Millenium" zone="2" long="-122.93918" lat="49.25461" info="Serves several television studios such as CHAN-DT and Global News TV1. " />
+<station name="Sperling-Burnaby Lake" line1="Millenium" zone="2" long="-122.96399" lat="49.25915" info="Within walking distance of Burnaby Lake Park and recreation centres." />
+<station name="Holdom" line1="Millenium" zone="2" long="-122.98215" lat="49.26475" info="Serves the residential districts around Holdom." />
+<station name="Brentwood Town Centre" line1="Millenium" zone="2" long="-123.00181" lat="49.26643" info="Within walking distance of Brentwood Town Centre shopping centre." />
+<station name="Gilmore" line1="Millenium" zone="2" long="-123.01357" lat="49.26500" info="This station is next to Vancouver Film Studios."/>
+<station name="Rupert" line1="Millenium" zone="1" long="-123.03341" lat="49.26147" info="Within walking distance of a liquor distribution centre." />
+<station name="Renfrew" line1="Millenium" zone="1" long="-123.04465" lat="49.25836" info="Serves the residental areas around Renfrew." />
+<station name="VCC-Clark" line1="Millenium" zone="1" long="-123.08046" lat="49.26569" info="Serves as the terminus of the Millenium line, close to Vancouver Community College." />
+
+<!-- Zone3 Expo line -->
+
+<station name="Scott Road" line1="Expo" zone="3" long="-122.87505" lat="49.20443" info="Serves the industrial district of Surrey." />
+<station name="Gateway" line1="Expo" zone="3" long="-122.85062" lat="49.19913" info="Located next to the Coast Mountain Bus Company head office." />
+<station name="Surrey Central" line1="Expo" zone="3" long="-122.84763" lat="49.18894" info="Serves downtown Surrey, Central City Shopping Centre, and SFU Surrey Campus." />
+<station name="King George" line1="Expo" zone="3" long="-122.84441 " lat="49.18277" info="Serves the mixed residential and industrial areas." />
+
+
+</Stations>
+<Edges>
+	<edge one="Waterfront" two="Burrard" time="2" />
+	<edge one="Burrard" two="Granville" time="1" />
+	<edge one="Granville" two="Stadium-Chinatown" time="1" />
+	<edge one="Stadium-Chinatown" two="Main Street-Science World" time="2"/>
+	<edge one="Main Street-Science World" two="Commercial-Broadway" time="3"/>
+	<edge one="Commercial-Broadway" two="Nanaimo" time="3"/>
+	<edge one="Commercial-Broadway" two="VCC-Clark" time="1"/>
+	<edge one="Commercial-Broadway" two="Renfrew" time="3" />
+	<edge one="Nanaimo" two="29th Avenue" time="1"/>
+	<edge one="29th Avenue" two="Joyce-Collinwood" time="2" />
+	<edge one="Joyce-Collinwood" two="Patterson" time="2" />
+	<edge one="Patterson" two="Metrotown" time="1"/>
+	<edge one="Metrotown" two="Royal Oak" time="2" />
+    <edge one="Royal Oak" two="Edmonds" time="3" />
+	<edge one="Edmonds" two="22nd Street" time="2"/>
+	<edge one="22nd Street" two="New Westminister" time="4" />
+	<edge one="New Westminister" two="Columbia" time="1"/>
+	<edge one="Columbia" two="Scott Road" time="3"/>
+	<edge one="Columbia" two="Sapperton" time="3"/>
+	<edge one="Scott Road" two="Gateway" time="3"/>
+	<edge one="Gateway" two="Surrey Central" time="1" />
+	<edge one="Surrey Central" two="King George" time="2"/>
+	<edge one="Sapperton" two="Braid" time="2" />	    
+    <edge one="Braid" two="Lougheed Town Centre" time="3" />
+    <edge one="Lougheed Town Centre" two="Production Way-University" time="2" />
+    <edge one="Production Way-University" two="Lake City Way" time="3" />
+    <edge one="Lake City Way" two="Sperling-Burnaby Lake" time="2" />
+    <edge one="Sperling-Burnaby Lake" two="Holdom" time="2" />
+    <edge one="Holdom" two="Brentwood Town Centre" time="2"/>
+    <edge one="Brentwood Town Centre" two="Gilmore" time="1" />
+    <edge one="Gilmore" two="Rupert" time="3"/>
+    <edge one="Rupert" two="Renfrew" time="1" />   
+    
+    <edge one="Waterfront" two="Vancouver City Centre" time="2"/>
+    <edge one="Yaletown-Roundhouse" two="Vancouver City Centre" time="2" />
+    <edge one="Olympic Village" two="Yaletown-Roundhouse" time="2"/>
+    <edge one="Olympic Village" two="Broadway-City Hall" time="1" />
+    <edge one="King Edward" two="Broadway-City Hall" time="2" />
+    <edge one="King Edward" two="Oakridge-41st Avenue" time="3" />
+    <edge one="Oakridge-41st Avenue" two="Langara-49th Avenue" time="2" />
+    <edge one="Langara-49th Avenue" two="Marine Drive" time="3"/>
+    <edge one="Marine Drive" two="Bridgeport" time="2"/>
+    <edge one="Bridgeport" two="Templeton" time="3" />
+    <edge one="Templeton" two="Sea Island Centre" time="2" />
+    <edge one="YVR Airport" two="Sea Island Centre" time="2" />
+    <edge one="Bridgeport" two="Aberdeen" time="2" />
+    <edge one="Aberdeen" two="Lansdowne" time="2" />
+    <edge one="Lansdowne" two="Richmond-Brighouse" time="2" />
+    
+    
+    
+    
+</Edges>
+<!--  frequency is not implemented in the project at this time -->
+<Frequency>
+    <millenium peak="2" midday="3" evening="3" late="5" earlyweekend="4" holiday="3-5" />
+    <canada peak="4" midday="4" evening="6" late="10" earlyweekend="6" holiday="4-10"
+</Frequency>
+
+<firstlasttrain>
+    <firsttrain line="canada" to="Waterfront" from="YVR Airport" week="05:07" sat="05:07" sun-holiday="05:07" />
+    <lasttrain line="canada" to="Waterfront" from="YVR Airport" week="12:56" sat="12:56" sun-holiday="12:56" />
+    <firsttrain line="canada" to="Waterfront" from="Richmond-Brighouse" week="05:02" sat="05:02" sun-holiday="05:02" />
+    <lasttrain line="canada" to="Waterfront" from="Richmond-Brighouse" week="12:47" sat="12:47" sun-holiday="12:47" />
+    <firsttrain line="canada" to="Richmond-Brighouse" from="Waterfront" week="05:30" sat="05:30" sun-holiday="05:30" />
+    <lasttrain line="canada" to="Richmond-Brighouse" from="Waterfront" week="01:15" sat="01:15" sun-holiday="01:15" />
+    <firsttrain line="canada" to="YVR Airport" from="Waterfront" week="04:48" sat="04:48" sun-holiday="04:48" />
+    <lasttrain line="canada" to="YVR Airport" from="Waterfront" week="01:05" sat="01:05" sun-holiday="01:05" />
+    
+    <firsttrain line="expo" to="Waterfront" from="King George" week="05:08" sat="06:08" sun-holiday="07:08" />
+    <lasttrain line="expo" to="Waterfront" from="King George" week="12:38" sat="12:38" sun-holiday="23:38" />
+    <firsttrain line="expo" to="King George" from="Waterfront" week="05:35" sat="06:50" sun-holiday="07:50" />
+    <lasttrain line="expo" to="King George" from="Waterfront" week="01:16" sat="01:16" sun-holiday="12:15" />
+    
+    <firsttrain line="millenium" to="Waterfront" from="VCC-Clark" week="05:34" sat="06:34" sun-holiday="07:34" />
+    <lasttrain line="millenium" to="Waterfront" from="VCC-Clark" week="12:09" sat="12:09" sun-holiday="23:09" />
+    <firsttrain line="millenium" to="VCC-Clark" from="Waterfront" week="05:54" sat="06:54" sun-holiday="07:54" />
+    <lasttrain line="millenium" to="VCC-Clark" from="Waterfront" week="12:31" sat="12:31" sun-holiday="23:31" />
+</firstlasttrain>
+
+
+</Items>
